@@ -1,0 +1,49 @@
+{
+  "applicationDate":"2015-05-13",
+  "cashToClose":38988.15,
+  "expectedClosingDate":"2015-08-30",
+  "loanAmount":550000.05,
+  "loanAPR":4.33,
+  "loanPoints":0.35,
+  "loanPurpose":"Refi",
+  "loanRate":3.375,
+  "loanTeam":[
+    {
+      "current":false,
+      "email":"john.swain@pnmac.com",
+      "name":"John Swain",
+      "phone":"(866) 545-9070",
+      "photo":"https://lh3.googleusercontent.com/-tsLKdWMUTKg/AAAAAAAAAAI/AAAAAAAAA2U/Btjz45M5B1Q/s120-c/photo.jpg",
+      "title":"Loan Officer"
+    },
+    {
+      "current":true,
+      "email":"kelly.miyahara@pnmac.com",
+      "name":"Kelly Miyahara",
+      "phone":"(866) 545-9070",
+      "photo":"https://lh3.googleusercontent.com/_RdpGMze40Fasao4Oi1a3Mc39SLGeNUAwjjOT89F5A=w438-h436-p-no",
+      "title":"Loan Processor"
+    },
+    {
+      "current":false,
+      "email":"farnaz.ansari@pnmac.com",
+      "name":"Farnaz Ansari",
+      "phone":"(866) 545-9070",
+      "photo":"https://lh3.googleusercontent.com/-BgU-7WY6nZk/AAAAAAAAAAI/AAAAAAAAHGg/LY5C1VDBPlo/s120-c/photo.jpg",
+      "title":"Closer"
+    },
+    {
+      "current":false,
+      "email":"farnaz.ansari@pnmac.com",
+      "name":"Farnaz Ansari",
+      "phone":"(866) 545-9070",
+      "photo":"https://lh3.googleusercontent.com/-BgU-7WY6nZk/AAAAAAAAAAI/AAAAAAAAHGg/LY5C1VDBPlo/s120-c/photo.jpg",
+      "title":"Manager"
+    }
+  ],
+  "monthlyPayment":3897.55,
+  "processingStep":3,
+  "productName":"15-Yr Fixed HARP",
+  "propertyAddress":"2068 Crist Drive, Los Altos, CA",
+  "rateLockedToDate":"2015-07-28"
+}
