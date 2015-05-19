@@ -1,4 +1,4 @@
-JSON_CALLBACK(
+angular.callbacks._0(
   {
     "LoanNumber": "7000310777",
     "LoanProgram": "VA IRRRL 30 Fixed",
