@@ -6,12 +6,12 @@
   },
   {
     "messageText": "We need copies of your last 3 months of bank statments.",
-    "messageDateTime": "2015-6-9T11:57:00",
+    "messageDateTime": "2015-06-09T11:57:00",
     "messageSender": "John Smith"
   },
   {
     "messageText": "Thank you for sending us your paystubs.",
-    "messageDateTime": "2015-6-15T15:16:00",
+    "messageDateTime": "2015-06-15T15:16:00",
     "messageSender": "Joe Blow"
   }
 ]
