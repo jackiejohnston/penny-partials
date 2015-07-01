@@ -20,6 +20,7 @@
   {
     "Text": "Test Document",
     "DateTime": "2015-07-02T15:16:00",
-    "Category": "document"
+    "Category": "document",
+    "URL": "http://www.google.com"
   }
 ]
