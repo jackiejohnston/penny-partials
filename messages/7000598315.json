@@ -2,16 +2,19 @@
   {
     "messageText": "We have received your application.",
     "messageDateTime": "2015-06-01T09:32:00",
-    "messageSender": "Jane Doe"
+    "messageSender": "Jane Doe",
+    "category": "message"
   },
   {
     "messageText": "We need copies of your last 3 months of bank statments.",
     "messageDateTime": "2015-06-09T11:57:00",
-    "messageSender": "John Smith"
+    "messageSender": "John Smith",
+    "category": "message"
   },
   {
     "messageText": "Thank you for sending us your paystubs.",
     "messageDateTime": "2015-06-15T15:16:00",
-    "messageSender": "Joe Blow"
+    "messageSender": "Joe Blow",
+    "category": "message"
   }
 ]
