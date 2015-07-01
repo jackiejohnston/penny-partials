@@ -1,20 +1,25 @@
 [
   {
-    "messageText": "We have received your application.",
-    "messageDateTime": "2015-06-01T09:32:00",
-    "messageSender": "Jane Doe",
-    "category": "message"
+    "Text": "We have received your application.",
+    "DateTime": "2015-06-01T09:32:00",
+    "Sender": "Jane Doe",
+    "Category": "message"
   },
   {
-    "messageText": "We need copies of your last 3 months of bank statments.",
-    "messageDateTime": "2015-06-09T11:57:00",
-    "messageSender": "John Smith",
-    "category": "message"
+    "Text": "We need copies of your last 3 months of bank statments.",
+    "DateTime": "2015-06-09T11:57:00",
+    "Sender": "John Smith",
+    "Category": "message"
   },
   {
-    "messageText": "Thank you for sending us your paystubs.",
-    "messageDateTime": "2015-06-15T15:16:00",
-    "messageSender": "Joe Blow",
-    "category": "message"
+    "Text": "Thank you for sending us your paystubs.",
+    "DateTime": "2015-06-15T15:16:00",
+    "Sender": "Joe Blow",
+    "Category": "message"
+  },
+  {
+    "Text": "Test Document",
+    "DateTime": "2015-07-02T15:16:00",
+    "Category": "document"
   }
 ]
