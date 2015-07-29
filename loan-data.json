@@ -1,0 +1,15 @@
+{
+  "LoanNumber": "7000598366",
+  "LoanType": "Conventional",
+  "LoanProgram": "Conventional 10 Fixed",
+  "LoanAmount": 208588.00,
+  "LoanPurpose": "Cash-Out Refinance",
+  "Term": 120,
+  "InterestRate": 2.750,
+  "Points": 0.500,
+  "APR": 3.905,
+  "MonthlyPayment": 2198.66,
+  "LockStatus": "Expired",
+  "Expirationdate": "2015-04-16T00:00:00",
+  "EstimatedClosingDate": "2015-03-27T00:00:00"
+}
