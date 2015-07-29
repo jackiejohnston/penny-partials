@@ -1,0 +1,15 @@
+{
+  "LoanNumber": "7000598315",
+  "LoanType": "Conventional",
+  "LoanProgram": "PennyMac - Retail Conventional HB 30 Fixed",
+  "LoanAmount": 500000.00,
+  "LoanPurpose": "Cash-Out Refinance",
+  "Term": 360,
+  "InterestRate": 0.0,
+  "Points": 100.000,
+  "APR": 0.000,
+  "MonthlyPayment": 96.67,
+  "LockStatus": "Not Locked",
+  "Expirationdate": "0001-01-01T00:00:00",
+  "EstimatedClosingDate": "2015-09-01T00:00:00"
+}
